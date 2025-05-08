@@ -1,0 +1,6 @@
+Backup created at: Thu May  8 12:55:20 EEST 2025
+Database: sample_db
+Backup type: Full
+Backup format: Custom (compressed binary)
+Number of tables:      1
+Backup size: 4.0K
